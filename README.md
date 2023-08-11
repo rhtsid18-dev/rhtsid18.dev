@@ -7,3 +7,8 @@ The base landing page for my online portfolio domain `rhtsid18.dev` where I will
 - Use of Typescript for static typing.
 - Github actions for CI/CD workflow.
 - Material UI for page design.
+- Implemented github branch protections to only accept changes to the branch through Pull Requests.
+	- Also implemented restrictions to merging the PR through : -
+		- Approval Requirements.
+		- Dissmisal of stale approvals.
+		- Requiring review from code owners.
