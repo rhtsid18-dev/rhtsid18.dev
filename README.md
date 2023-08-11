@@ -13,3 +13,4 @@ The base landing page for my online portfolio domain `rhtsid18.dev` where I will
 		- Dissmisal of stale approvals.
 		- Requiring review from code owners.
 - Through the Settings -> General -> `Automatically delete head branches` checkbox checked, I have setup so that post the PR is merged, the Head branch gets deleted keeping the list of branches in the repository clean.
+- Added a `Makefile` to the repo for easy setup steps.
