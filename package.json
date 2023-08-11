@@ -1,0 +1,33 @@
+{
+	"name": "rhtsid18.dev",
+	"version": "1.0.0",
+	"description": "The base landing page for my online portfolio domain rhtsid18.dev where I will showcase all the hobby projects that I am building.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rhtsid18-dev/rhtsid18.dev.git"
+	},
+	"author": "Rohit Sidhwani",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rhtsid18-dev/rhtsid18.dev/issues"
+	},
+	"homepage": "https://github.com/rhtsid18-dev/rhtsid18.dev#readme",
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.22.10",
+		"@babel/preset-env": "^7.22.10",
+		"@babel/preset-react": "^7.22.5",
+		"babel-loader": "^9.1.3",
+		"html-webpack-plugin": "^5.5.3",
+		"webpack": "^5.88.2",
+		"webpack-cli": "^5.1.4",
+		"webpack-dev-server": "^4.15.1"
+	}
+}
